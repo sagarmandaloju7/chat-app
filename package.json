@@ -2,7 +2,7 @@
   "name": "chat-app",
   "version": "0.1.0",
   "private": true,
-  "homepage" : "https://sagarmandaloju7.github.io/chat-app/",
+  "homepage" : "https://sagarmandaloju7.github.io/chat-app",
   "dependencies": {
     "cra-template": "1.2.0",
     "firebase": "^9.19.1",
